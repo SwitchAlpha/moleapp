@@ -9,13 +9,13 @@ June 18, 2025
 
 # Privacy Policy
 
-At Mole WA TRACKER, we take the privacy of our users very seriously. This privacy policy outlines how Mole WA TRACKER collects, uses, shares, and protects your information. By using the Mole WA TRACKER app, you agree to the terms outlined in this policy. Please read it carefully to understand how we handle your data.
+At Furya, we take the privacy of our users very seriously. This privacy policy outlines how Furya collects, uses, shares, and protects your information. By using the Furya app, you agree to the terms outlined in this policy. Please read it carefully to understand how we handle your data.
 
 <br>
 
 ## 1.0 Information We Collect
 
-Mole WA TRACKER may collect certain information through the app. This information may include data that does not directly identify you or your child. Our app uses third-party services such as Firebase and Facebook SDK, which may also collect data. The types of information we collect include:
+Furya may collect certain information through the app. This information may include data that does not directly identify you or your child. Our app uses third-party services such as Firebase and Facebook SDK, which may also collect data. The types of information we collect include:
 
 ### 1.1 Device Information
 
@@ -31,7 +31,7 @@ We may collect information about how you interact with the app, including time s
 
 The data we collect is used for the following purposes:
 
-- To provide and maintain the Mole WA TRACKER service.
+- To provide and maintain the Furya service.
 - To improve the functionality, performance, and user experience of the app.
 - To communicate with you about updates, features, and relevant notifications.
 - To monitor and analyze trends, usage, and activities within the app for the purpose of improving our service.
@@ -64,7 +64,7 @@ You have certain rights regarding your data, including:
 
 ## 6.0 Children's Privacy
 
-Mole WA TRACKER is designed for parents to monitor their children’s online activities. We do not knowingly collect personal information from children under the age of 13 without parental consent. If we learn that we have collected such information, we will delete it as quickly as possible.
+Furya is designed for parents to monitor their children’s online activities. We do not knowingly collect personal information from children under the age of 13 without parental consent. If we learn that we have collected such information, we will delete it as quickly as possible.
 
 <br>
 
