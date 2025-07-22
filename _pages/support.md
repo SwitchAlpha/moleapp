@@ -4,13 +4,13 @@ title: Support
 include_in_header: true
 ---
 
-# Mole: WA TRACKER
+# Furya
 
-Thank you for using the Mole app! If you have any questions or need assistance, we're here to help.
+Thank you for using the Furya app! If you have any questions or need assistance, we're here to help.
 
 ## Frequently Asked Questions (FAQ)
 
-1. **How do I use the Mole app?**
+1. **How do I use the Furya app?**
    After downloading the app, create an account and start exploring AI characters to chat with.
 
 2. **Is my personal information safe?**
@@ -34,7 +34,7 @@ If you couldn't find the answer to your question in our FAQ, please don't hesita
 
 ## Feedback
 
-We're always looking to improve your experience with Mole. If you have any suggestions or feedback, please let us know via email.
+We're always looking to improve your experience with Furya. If you have any suggestions or feedback, please let us know via email.
 
 Thank you for your support!
 
